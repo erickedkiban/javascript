@@ -1,0 +1,32 @@
+
+// Ang JSON, o JavaScript Object Notation, ay isang
+//  lightweight data interchange format. 
+//  Ito ay madaling maintindihan at mabasa para sa tao, 
+//  at madali ring i-generate at i-parse para sa mga
+//   programming language. Ang JSON ay orihinal na
+//    nilikha para sa paggamit sa JavaScript, ngunit
+//     dahil sa kanyang simplicity, naging popular ito 
+//     sa iba't ibang programming languages.
+
+// Ang JSON ay binubuo ng key-value pairs,
+//  kung saan ang bawat key ay isang string at 
+//  ang kanyang katumbas na value ay maaaring
+//   maging isang string, number, object, array, 
+//   boolean, o null. Narito ang isang halimbawa 
+//   ng isang simpleng JSON object:
+
+
+{
+    "name": "Juan Dela Cruz",
+    "age": 25,
+    "city": "Manila",
+    "isStudent": false,
+    "grades": [85, 90, 78]
+  }
+  
+// //   Sa halimbawang ito, mayroong key-value pairs 
+// tulad ng "name": "Juan Dela Cruz" at "age": 25
+// . Ang JSON ay kadalasang ginagamit sa pagpapasa
+//  ng data mula sa server papunta sa client at
+//   vice versa, lalo na sa web development 
+//   at API (Application Programming Interface) communication.
